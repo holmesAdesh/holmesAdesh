@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @holmesAdesh
+- 👋 Hi, I’m Adesh D.
 - 👀 I’m interested in investigating your dataset
 - 🌱 I’m currently learning MlOps
 - 💞️ I’m looking to collaborate on Data Science 
