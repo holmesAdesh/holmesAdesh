@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adesh D.
 - 👀 I’m interested in investigating your dataset
 - 🌱 I’m currently learning MlOps
-- 💞️ I’m looking to collaborate on Data Science 
+- 💞️ I’m Activly looking for Job Opportunity in Data Science and Analytics 
 - 📫 How to reach me email: adeshdeshbhratar0@gmail.com, Contact No. 9689777024
 
 <!---
